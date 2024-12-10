@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TelaLogin</string>
+    <string name="email">E-mail:</string>
+    <string name="password">Senha:</string>
+    <string name="confirmPassword">Confirmar:</string>
+    <string name="header">Login e Registro</string>
+    <string name="aguabg">Imagem de Água</string>
+</resources>
